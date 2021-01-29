@@ -1,0 +1,15 @@
+@charset "UTF-8";
+#title{
+    font-family: 'Parisienne', cursive;
+	color: pink;
+}
+.dummytext{
+	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
+	background-color: palevioletred;	
+}
+.introduction{
+	border: groove;
+	border-color: deeppink;
+	padding: one_size fits all; padding: 10px;
+	background-color: lightpink;
+}
