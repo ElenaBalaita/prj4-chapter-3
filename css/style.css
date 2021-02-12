@@ -1,7 +1,16 @@
 @charset "UTF-8";
+* {margin: 0; padding: 0; border: 0; font-size: 100%; }
 #title{
     font-family: 'Parisienne', cursive;
-	color: pink;
+	font-size: 50px;
+	color: hotpink;
+	text-align: center;
+}
+h1{
+	background-image: url("../images/background.jpg");
+	padding: 20px;
+	background-repeat: repeat;
+	background-size: 15%;
 }
 .dummytext{
 	font-family: 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif';
@@ -12,4 +21,9 @@
 	border-color: deeppink;
 	padding: 20px;
 	background-color: lightpink;
+	font-family: 'Satisfy', cursive;
+}
+.margin{
+	padding-left: 10px;
+	padding-right: 10px;
 }
