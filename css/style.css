@@ -1,15 +1,17 @@
 @charset "UTF-8";
 * {margin: 0; padding: 0; border: 0; font-size: 100%; }
-#title{
-    font-family: 'Italianno', cursive;
-	font-size: 60px;
-	color: white;
-	text-align: center;
-}
 h1{
 	background-image: url("../images/background.jpg");
 	padding: 20px;
 	background-size: 100%;
+	opacity: 0.8;
+}
+#title{
+    font-family: 'Zilla Slab Highlight', cursive;
+	font-weight: 45;
+	font-size: 80px;
+	color: floralwhite;
+	text-align: left;
 }
 h2{
 	text-align: center;
@@ -24,14 +26,14 @@ h2{
 	text-align: center;
 }
 #first{
-	background-color: lightyellow;
+	background-color: floralwhite;
 	color: black;
 }
 .introduction{
 	border: groove;
-	border-color: lightpink;
+	border-color: #C7B8CD;
 	padding: 20px;
-	background-color: lightyellow;
+	background-color: floralwhite;
 	font-family: 'Satisfy', cursive;
 	text-align: center;
 }
@@ -40,5 +42,21 @@ h2{
 	padding-right: 10px;
 }
 .creators{
+	text-align: center;
+}
+img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	max-width: 40%;
+	max-height: 40%;
+	border-radius: 50%;
+	transform: rotate(90deg);
+	opacity: 0.5;
+}
+#buaswebsite{
+	font-family: 'Satisfy', cursive;
 	text-align: center;
 }
