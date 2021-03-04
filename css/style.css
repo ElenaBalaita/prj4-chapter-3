@@ -32,14 +32,17 @@ h2{
 .introduction{
 	border: groove;
 	border-color: #C7B8CD;
-	padding: 20px;
+	margin-left: auto;
+	margin-right: auto;
 	background-color: floralwhite;
 	font-family: 'Satisfy', cursive;
 	text-align: center;
 }
 .margin{
-	padding-left: 10px;
-	padding-right: 10px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	align-text: center;
 }
 section{
 	text-align: center;
@@ -89,5 +92,9 @@ section >h3{
 }
 header{
 	background-color: floralwhite;
+}
+.contents{
+	margin-left: auto;
+	margin-right: auto;
 }
 
