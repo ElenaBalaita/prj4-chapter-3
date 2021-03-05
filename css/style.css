@@ -41,6 +41,7 @@ h2{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	width: 800px;
 	align-text: center;
 }
 section{
@@ -91,9 +92,5 @@ section >h3{
 }
 header{
 	background-color: floralwhite;
-}
-.contents{
-	margin-left: auto;
-	margin-right: auto;
 }
 
