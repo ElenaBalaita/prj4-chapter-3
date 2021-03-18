@@ -37,7 +37,7 @@ h2{
 	font-family: 'Satisfy', cursive;
 	text-align: center;
 }
-.margin{
+.container{
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
